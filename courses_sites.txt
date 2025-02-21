@@ -1,1 +1,6 @@
 Seaborn : https://seaborn.pydata.org/index.html
+
+#$env:GOOGLE_APPLICATION_CREDENTIALS="C:\Users\Gojo\Downloads\braided-liberty-451506-j9-f1d74ef317d9.json"
+
+import os
+print(os.path.exists(r"C:\Users\Gojo\Downloads\my-project-72363-powell-site-82c324a3c.json"))
